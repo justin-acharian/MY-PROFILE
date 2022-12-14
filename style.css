@@ -1,0 +1,37 @@
+/*color and fonts*/
+body {
+	background-color: #CD104D;
+	color: #FD841F;
+	font-family: 'Roboto', sans-serif;
+	font-size: 17px; 
+}
+h1,h2,h3{
+	font-family: 'Lora', serif;
+}
+h1{
+	color: #FD841F;
+	font-size: 32px;
+}
+h2{
+	color: #9C2C77;
+	font-size: 20px;
+	font-weight: lighter;
+}
+a {
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+	color: #E14D2A;
+}
+a:hover{
+	color: darkgrey;
+}
+
+#photodeprofil{
+border-radius: 50%;
+}
+#mages/photodeprofil.jpeg{
+	border-radius: 50%;
+}
+
+
+
